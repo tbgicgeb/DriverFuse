@@ -10,10 +10,7 @@
 The goal of DriverFuse is to become instrumental in the study of Driver
 fusion genes in cancer genomics, enabling the identification of
 recurrent complex rearrangements that may pinpoint disease driver
-events. Here,we implement the methodological framework into an R package
-incorporating multiple functionalities to integrate orthogonal data
-types such as SV and CNV and characterize fusion gene in breast cancer
-datasets.This toolset allows the research community to easily perform
+events. This toolset allows the research community to easily perform
 complex analysis of high throughput profiling data and will support
 extensions to further integrate analyses of other types of omics data.
 
